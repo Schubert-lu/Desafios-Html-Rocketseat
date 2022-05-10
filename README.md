@@ -28,4 +28,4 @@ Adicione no mínimo 3 perguntas com 4 opções de respostas cada. ❓</p>
 <hr>
   <p>Nesse desafio você deve criar a estrutura HTML para a página de post de um blog. 🚀 <br>
 </p>
-  <img src="https://user-images.githubusercontent.com/103296710/167729200-8f6e9d93-2bd4-4320-b89d-8420ccb8ad35.png" height="700px" width="300px">
+  <img src="https://user-images.githubusercontent.com/103296710/167730230-c43c421a-595d-48c2-8b26-2f925edefd3b.gif" width="600px">
