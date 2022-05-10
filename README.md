@@ -10,4 +10,9 @@ Desafios de criar sites com apeanas HTML
 <h2> <strong> <em> Desafio-2 💻</em></strong> </h2>
 <hr>
   <p>Nesse desafio você vai criar um formulário para contato. 📞</p>
+  <img src="https://user-images.githubusercontent.com/103296710/167728659-12b3f002-5a0c-4ed8-881f-ca078069287a.png" width="600px">
   
+<h2> <strong> <em> Desafio-3 💻</em></strong> </h2>
+<hr>
+  <p>Nesse exercício você deve criar uma lista de compras que tenha no mínimo 4 itens. 🛍️</p>
+  <img src="https://user-images.githubusercontent.com/103296710/167728659-12b3f002-5a0c-4ed8-881f-ca078069287a.png" width="600px">
