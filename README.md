@@ -1,5 +1,5 @@
-# Desafios-Html-Rocketseat 🚀
-Desafios de criar sites com apeanas HTML
+# <strong> <em> Desafios Html - Rocketseat </em></strong> 🚀
+Desafios de criar sites com apenas HTML
 
 <h2> 📍 <strong> <em> Desafio - 1 💻</em></strong> </h2>
 <hr>
